@@ -27,9 +27,7 @@
 :envelope: ilsong963@naver.com
 
 https://img.shields.io/badge/
-[![FacebookBadge](https://www.facebook.com/profile.php?id=100001592185339)
-
-
+(https://www.facebook.com/profile.php?id=100001592185339)(https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001592185339)]
 
 ---
 [![Ilsong's github stats](https://github-readme-stats.vercel.app/api?username=ilsong963)](https://github.com/anuraghazra/github-readme-stats)
