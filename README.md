@@ -27,7 +27,7 @@
 :envelope: ilsong963@naver.com
 
 https://img.shields.io/badge/
-[![FacebookBadge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001592185339)](https://www.facebook.com/profile.php?id=100001592185339)
+[![FacebookBadge](https://www.facebook.com/profile.php?id=100001592185339)
 
 
 
