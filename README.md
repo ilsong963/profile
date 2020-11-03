@@ -33,10 +33,14 @@
 
 ## 완료 프로젝트
 
->[윈도우 프로그래밍](https://github.com/ilsong963/window-project)
->[창의코딩 파이썬](https://github.com/ilsong963/creactive_coding_python)
->[게임 프로그래밍]](https://github.com/ilsong963/3WAYS)
->[팀 프로젝트 (안드로이드)]](https://github.com/ilsong963/isaac)
+[윈도우 프로그래밍](https://github.com/ilsong963/window-project)
+
+[창의코딩 파이썬](https://github.com/ilsong963/creactive_coding_python)
+
+[게임 프로그래밍](https://github.com/ilsong963/3WAYS)
+
+[팀 프로젝트 (안드로이드)](https://github.com/ilsong963/isaac)
+
 
 
 ---
